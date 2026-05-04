@@ -11,6 +11,8 @@ Backend lead at [T-Soft](https://www.tsoft.com.tr/), an e-commerce SaaS platform
 based in Türkiye. I work primarily with Laravel/PHP across a multi-service
 architecture — including an OAuth2 identity provider built on Laravel Passport.
 
+Computer Engineering, [Çukurova University](https://www.cu.edu.tr/) alum.
+
 **Currently focused on:** API design, multi-tenant SaaS, OAuth2 / authentication
 infrastructure, and developer tooling — with a strong bias toward testable code,
 PHPUnit / Pest suites, and CI pipelines that catch regressions before customers
